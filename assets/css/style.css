@@ -1,0 +1,20 @@
+body {
+    background-color: hotpink;
+    align-content: center;
+    background-repeat: repeat;
+}
+
+#instructions {
+    margin: 10px;
+    color: hotpink;
+}
+
+.btn {
+    margin: 10px;
+    color: hotpink;
+    
+}
+
+p {
+    color: white;
+}
